@@ -42,4 +42,3 @@ LogFormat "%{User-agent}i" agent
  
 IncludeOptional conf-enabled/*.conf
 IncludeOptional sites-enabled/*
-#end
